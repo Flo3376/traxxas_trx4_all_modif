@@ -32,3 +32,5 @@ Tu peux faire un test de roulage lent pour t’assurer que tout est OK.
 ---
 
 ✅ **Conseil** : marque les trous de fixation à l’intérieur de la carrosserie avec un marqueur avant perçage.
+
+
