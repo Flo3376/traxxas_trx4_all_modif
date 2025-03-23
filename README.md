@@ -1,5 +1,7 @@
 # 🚗 Projet TRX4 Sport Hummer – Upgrade et Documentation complète
 
+> 🇬🇧 [Switch to English version](./README.en.md)
+
 Bienvenue sur ce projet de modification complète du **Traxxas TRX4 Sport 1/10**, basé à l'origine sur des éléments publiés sur Thingiverse, mais entièrement remis au propre, restructuré et enrichi.  
 L’objectif est de proposer un **montage propre, solide, et documenté section par section**, avec une **carrosserie type Hummer** se montant en lieu et place, sans aucune modification des pièces d’origine.
 
@@ -46,6 +48,8 @@ Ce projet est **ouvert à tous** : découpé en modules indépendants pour que c
 Il est pensé pour être accessible à **des débutants débrouillards** comme à des passionnés expérimentés.  
 L’ambition est de **tout expliquer simplement**, même si la doc évoluera au fil du temps.
 
+🙏 Merci d’être indulgent : certaines approches sont simples, parfois pas optimales, mais pensées pour être faisables sans matériel pro.
+
 ---
 
 ## 🚀 Évolution & perspectives
@@ -56,16 +60,20 @@ L’ambition est de **tout expliquer simplement**, même si la doc évoluera au 
 
 ---
 
+## 💬 Rejoindre la communauté
+
+Pour discuter du projet, poser vos questions, ou partager vos montages :  
+➡️ **[Rejoignez le serveur Discord](https://discord.gg/4V3BPrqjAZ)**
+
+---
+
 ## ☕ Me soutenir ?
 
 Ce projet m’a demandé **pas mal de temps, de prototypage, de documentation et de tests**.  
 Je ne cherche pas à me payer une villa au Bahamas 😅 — mais si ce travail vous aide et que vous voulez me remercier...
 
-🎁 **Un petit don pour m’aider à m’acheter 2 bobines de PETG, une boîte de visserie ou quelques inserts ferait super plaisir !**
-
-[💖 Me soutenir ici](https://www.buymeacoffee.com/) *(ou lien perso si tu en as un)*
-
-Merci d’avance, et bons builds à tous !
+🎁 **Un petit don pour m’aider à m’acheter 2 bobines de PETG, une boîte de visserie ou quelques inserts ferait super plaisir !**  
+👉 [Faire un don via PayPal](https://www.paypal.com/donate/?hosted_button_id=264K3SDVHKDK2)
 
 ---
 
