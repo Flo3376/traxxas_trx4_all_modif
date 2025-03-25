@@ -25,11 +25,11 @@ Et quand tu peindras ta caisse... libre à toi d’y mettre la couleur que tu ve
 
 ## Étape 1 – Les chandelles
 
-![Chandelles](./images/jack.jpg)
+![Chandelles](./images/jack.png)
 On va commencer par imprimer les chandelles:
 - 0.8mm pour la buse
 - Orientation : socle vers le bas, évidemment. Pas la peine de faire les malins avec des supports tordus dès le départ. Ça dérapera bien assez tout seul plus tard.
 
-![Chandelles](./images/jacks2.jpg)
+![Chandelles](./images/jacks2.png)
 La chandelle avec le rond dans le socle c'est pour le train avain, celle avec le trou carré, tu devines pour quoi c’est....
 Si tu bloques déjà ici... comment dire... Ça promet pour la suite. Vraiment.
