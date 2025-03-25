@@ -4,16 +4,20 @@
 
 ![Outils](./images/tools.png)
 
-Avant de plonger dans le fabuleux monde de la carrosserie imprimée maison, mettez-vous bien ça en tête : entre les temps d’impression, la peinture (débrouillez-vous avec vos talents d’artiste), l’assemblage et les ajustements dignes d’un horloger suisse, comptez près de 100 heures. Oui, cent. Cent heures où votre magnifique 4x4 restera immobilisé, à poil, sans rien à se mettre sur le châssis.
+Faut être clair : ce projet va te prendre 100 heures facile. Impression, ponçage, ajustements, montage... Et tout ce temps, ton 4x4 restera à poil sur des cales, aussi mobile qu’un meuble IKEA pas monté.
 
-Il vous faudra :
-- Un kit de visserie métrique 3 mm (perso, j’ai pris un mille-pièces, ça fait sérieux).
+C’est pas une bricole du dimanche, c’est un chantier. Si t’es pas prêt à y passer tes soirées, tes week-ends et à ruiner une chemise avec de la cyano, c’est maintenant qu’il faut faire demi-tour.
 
-- Des inserts filetés pour vis de 3 mm.
+Matos minimum :
+- Un kit de visserie 3 mm métrique (perso j’ai pris un mille-pièces, c’est pas pour frimer, c’est pour survivre).
 
-- Un petit fer à souder pour poser ces inserts proprement (pas celui que vous utilisez pour vos câbles, un VRAI petit fer).
+- Des inserts filetés 3 mm, les vrais, ceux qui tiennent.
 
-- Et surtout : beaucoup de bordel autour de votre zone de travail. Si c’est trop rangé, ça fait pas maker. Et puis le chaos, c’est inspirant.
+- D’un fer à souder de précision, pas ton vieux machin à griller les ESC.
+
+- Et un joyeux bordel sur ton établi. Parce qu’un espace trop propre, c’est pas crédible. Et franchement, t’as déjà vu un maker qui bosse dans un bloc opératoire ?
+
+- Et quand tu peindras ta caisse... libre à toi d’y mettre la couleur que tu veux. Tant que c’est couleur sable, bien sûr.
 
 ---
 
