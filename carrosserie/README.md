@@ -41,3 +41,19 @@ Si tu bloques déjà ici... comment dire... Ça promet pour la suite. Vraiment.
 ![Gauche](./images/1_left.png)
 ![Arrière](./images/1_rear.png)
 ![Droites](./images/1_right.png)
+
+
+Pas de quartier :
+
+- Supports de carrosserie
+
+- Supports de pare-choc
+
+- Marchepieds
+
+Tout ça, dehors. On vire tout ce qui dépasse. Ce qui reste doit être prêt à accueillir du neuf, du solide, du printé maison.
+
+Les photos montrent une version équipée de la boîte 2 rapports et des commandes de blocage de ponts. Si t’as pas ça, pas grave. Mais sache que t’es déjà jaloux, un peu.
+
+Et pendant qu’on y est : un petit nettoyage, ça mange pas de pain. C’est quand même plus agréable de bosser sur un engin propre.
+(Et non, pas de blague douteuse sur "votre engin", merci. On a dit propre.)
