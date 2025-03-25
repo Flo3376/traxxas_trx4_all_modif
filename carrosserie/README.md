@@ -55,5 +55,17 @@ Tout ça, dehors. On vire tout ce qui dépasse. Ce qui reste doit être prêt à
 
 Les photos montrent une version équipée de la boîte 2 rapports et des commandes de blocage de ponts. Si t’as pas ça, pas grave. Mais sache que t’es déjà jaloux, un peu.
 
+🛠️ Note sérieuse :
+À ce stade, y’a aussi le support batterie qui pourrait bien y passer.
+Je dis rien pour l’instant, mais j’ai une idée qui va peut-être émerger. Ou exploser. On verra.
+
+💥 Concernant le câblage :
+Ne paniquez pas si c’est un sac de nœuds. Si vous voyiez le câblage dans ma tête, vous relativiseriez tout de suite. Comme on dit chez nous :
+
+> "Tous les étages sont câblés, mais pour le voltage, on repassera."
+
+🔍 Remarque :
+Il manque une pièce sur le train arrière, celle qui relie les suspensions. Elle n’est pas forcément à démonter, c’est juste que je l’ai perdue lors d’un road trip sans carrosserie. Si vous, vous l’avez encore, tant mieux. Sinon, bienvenue au club.
+
 Et pendant qu’on y est : un petit nettoyage, ça mange pas de pain. C’est quand même plus agréable de bosser sur un engin propre.
 (Et non, pas de blague douteuse sur "votre engin", merci. On a dit propre.)
