@@ -30,9 +30,6 @@ Et quand tu peindras ta caisse... libre à toi d’y mettre la couleur que tu ve
 [📦 STL des chandelles avant](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/jack_stands/jack_stands_F.stl)
 [📦 STL des chandelles arrière](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/jack_stands/jack_stands_R.stl)
 
-
-
-
 On va commencer par imprimer les chandelles:
 - 0.8mm pour la buse
 - Orientation : socle vers le bas, évidemment. Pas la peine de faire les malins avec des supports tordus dès le départ. Ça dérapera bien assez tout seul plus tard.
@@ -75,3 +72,29 @@ Il manque une pièce sur le train arrière, celle qui relie les suspensions. Ell
 
 Et pendant qu’on y est : un petit nettoyage, ça mange pas de pain. C’est quand même plus agréable de bosser sur un engin propre.
 (Et non, pas de blague douteuse sur "votre engin", merci. On a dit propre.)
+
+
+## Étape 2 – La charnière de capot avant
+
+[📦 STL de la charnière avant](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/hinge_hood_front_v3/hinge_hood_front_v3.stl)
+
+![charnière](./images/hinge_hood_front_v3.png)
+- 0.8mm pour la buse
+- impression comme sur l'image afin d'éviter le cisaillement de la piéce en cas de choc frontage
+
+Voici la première piéce à installer.
+Il vous fraudra :
+- 6 insterts
+- 4 vis en M3x10mm
+
+Précaution à prendre : 
+- vous cramer pas les doigts lors de la pose des inserts avec le fer à souder
+- serrage à la main et par à mord comme des débiles
+- pas de rondelle (de toutes façons ça passera pas)
+- pas de frein fillet
+
+![charnière](./images/hinge_hood_front_v3_2.png)
+![charnière](./images/hinge_hood_front_v3_3.png)
+![charnière](./images/hinge_hood_front_v3_4.png)
+![charnière](./images/hinge_hood_front_v3_5.png)
+
