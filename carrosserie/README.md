@@ -80,19 +80,26 @@ Et pendant qu’on y est : un petit nettoyage, ça mange pas de pain. C’est qu
 
 ![charnière](./images/hinge_hood_front_v3.png)
 - 0.8mm pour la buse
-- impression comme sur l'image afin d'éviter le cisaillement de la piéce en cas de choc frontage
+- À imprimer comme sur l’image.
+Pourquoi ? Pour éviter que la pièce se fasse cisailler au premier face-à-face non consenti avec un obstacle. Ça semble con, mais tu seras content que ça tienne.
 
-Voici la première piéce à installer.
+---
+
+⚙️ Première pièce à installer.
 Il vous fraudra :
-- 6 insterts
+- 6 inserts
 - 4 vis en M3x10mm
 
-Précaution à prendre : 
-- vous cramer pas les doigts lors de la pose des inserts avec le fer à souder
-- serrage à la main et par à mord comme des débiles
-- pas de rondelle (de toutes façons ça passera pas)
-- pas de frein fillet
+---
 
+⚠️ Précautions à prendre pour pas faire n’importe quoi dès le début : : 
+- Cramez pas vos doigts avec le fer à souder en posant les inserts. Sérieusement.
+- Serrage à la main, pas comme un bourrin avec une visseuse.
+- Pas de rondelles : de toute façon ça passe pas.
+- Pas de frein filet, inutile ici.
+- Et la face plane vers l’avant, pas besoin de vous faire un dessin (enfin si, y’a les photos).
+
+---
 ![charnière](./images/hinge_hood_front_v3_2.png)
 ![charnière](./images/hinge_hood_front_v3_3.png)
 ![charnière](./images/hinge_hood_front_v3_4.png)
