@@ -26,6 +26,9 @@ Et quand tu peindras ta caisse... libre à toi d’y mettre la couleur que tu ve
 ## Étape 1 – Les chandelles
 
 ![Chandelles](./images/jack.png)
+[📦 STL des chandelles avant](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carroserie/parts/Jack stands/Jacks Stands F.stl)
+[📦 STL des chandelles arrière](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carroserie/parts/Jack stands/Jacks Stands R.stl)
+
 
 On va commencer par imprimer les chandelles:
 - 0.8mm pour la buse
@@ -57,7 +60,7 @@ Les photos montrent une version équipée de la boîte 2 rapports et des command
 
 🛠️ Note sérieuse :
 À ce stade, y’a aussi le support batterie qui pourrait bien y passer.
-Je dis rien pour l’instant, mais j’ai une idée qui va peut-être émerger. Ou exploser. On verra.
+Je dis rien pour l’instant, mais j’ai une idée qui va peut-être émerger. Ou exploser. On verra. Mais ça sera une option 
 
 💥 Concernant le câblage :
 Ne paniquez pas si c’est un sac de nœuds. Si vous voyiez le câblage dans ma tête, vous relativiseriez tout de suite. Comme on dit chez nous :
