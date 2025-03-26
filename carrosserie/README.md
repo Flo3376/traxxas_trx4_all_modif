@@ -92,8 +92,15 @@ Il vous fraudra :
 
 ---
 
-⚠️ Précautions à prendre pour pas faire n’importe quoi dès le début : : 
-- Cramez pas vos doigts avec le fer à souder en posant les inserts. Sérieusement.
+⚠️ Précautions à prendre pour pas faire n’importe quoi dès le début :
+- Afin de rentrer les inserts proprement et sans forcer comme un goret, il faut les chauffer quelques instants à température élevée.
+Mon fer, lui, démarre à 300°C par défaut. C’est pas pour faire style, c’est parce que ça marche.
+
+Et voici un dicton d’un grand sage – gravé dans la sueur, la douleur, et un peu de peau fondue. À mémoriser absolument :
+> Ta main tremblera, ton insert tombera.
+> Le rattraper tu voudras.
+> Ce réflexe à la con, tu auras.
+
 - Serrage à la main, pas comme un bourrin avec une visseuse.
 - Pas de rondelles : de toute façon ça passe pas.
 - Pas de frein filet, inutile ici.
