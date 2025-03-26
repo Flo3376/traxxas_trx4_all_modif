@@ -27,8 +27,9 @@ Et quand tu peindras ta caisse... libre à toi d’y mettre la couleur que tu ve
 
 ![Chandelles](./images/jack.png)
 
-[📦 STL des chandelles avant](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carroserie/parts/jack_stands/jacks_stands_F.stl)
-[📦 STL des chandelles arrière](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carroserie/parts/jack_stands/jacks_stands_R.stl)
+[📦 STL des chandelles avant](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/jack_stands/jacks_stands_F.stl)
+[📦 STL des chandelles arrière](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/jack_stands/jacks_stands_R.stl)
+
 
 
 On va commencer par imprimer les chandelles:
