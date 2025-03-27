@@ -106,15 +106,23 @@ Et voici un dicton d’un grand sage – gravé par la douleure. À mémoriser a
 - Pas de frein filet, inutile ici.
 - Et la face plane vers l’avant, pas besoin de vous faire un dessin (enfin si, y’a les photos).
 
+>la dépose des roues avant n'est pas obligatoire, mais ça peut être pratique
+
 ---
 ![charnière](./images/hinge_hood_front_v3_2.png)
 ![charnière](./images/hinge_hood_front_v3_3.png)
 ![charnière](./images/hinge_hood_front_v3_4.png)
 ![charnière](./images/hinge_hood_front_v3_5.png)
 
-## Étape 3 – Le support de capot
+## Étape 3, 4, 5 et, ...et... et pis merde– Le capot, son support, la façade,...
 
-[📦 STL de la charnière avant](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/hood_mount_frame_v3/hood_mount_frame_v3.stl)
+[📦 STL du support capot](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/hood_mount_frame_v3/hood_mount_frame_v3.stl)
+[📦 STL de face avant](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/body_front_face_v2/body_front_face_v2.stl)
+[📦 STL du capot](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/hood/hood.stl)
+[📦 STL support des angels eyes](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/body_front_face_v2/body_front_face_v2.stl)
+
+---
+support de coffre
 
 ![support](./images/hood_mount_frame_v3.png)
 - 0.8mm pour la buse
@@ -123,3 +131,24 @@ Et voici un dicton d’un grand sage – gravé par la douleure. À mémoriser a
   - debout (façade contre le plateau d'impression), vous allez consomer le double de filament pour les supports, si votre imprimante commence à gigoter en hauteur, la piéces risque de sortir pas utilisable. A vous de voir
   - sur le coté vous risquez d'avoir un mélange des 2 défauts.
 
+---
+façade avant
+
+![support](./images/body_front_face_v2.png)
+- 0.8mm pour la buse
+- À imprimer comme sur l’image, si vous n'avez pas de soucis d'adhérence au plateau.
+
+---
+angel eyes (optionnel)
+
+![support](./images/angel_v1.png)
+- 0.8mm pour la buse
+- À imprimer comme sur l’image.
+
+---
+capot
+
+![support](./images/hood_v2.png)
+- 0.8mm pour la buse
+- À imprimer comme sur l’image pour éviter que les couches se voit trop
+- imprimante au ralentie, ça limitera les dégats de colision.
