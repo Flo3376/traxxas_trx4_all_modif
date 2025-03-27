@@ -119,7 +119,7 @@ Et voici un dicton d’un grand sage – gravé par la douleure. À mémoriser a
 ![support](./images/hood_mount_frame_v3.png)
 - 0.8mm pour la buse
 - Sens d'impression selon votre choix de défaut.
- - dans le sens de l'image, la pièce va wrapper, mais comme elle est pas visible, ça peut rester notre petit secret
- - debout (façade contre le plateau d'impression), vous allez consomer le double de filament pour les supports, si votre imprimante commence à gigoter en hauteur, la piéces risque de sortir pas utilisable. A vous de voir
- - sur le coté vous risquez d'avoir un mélange des 2 défauts.
+  - dans le sens de l'image, la pièce va wrapper, mais comme elle est pas visible, ça peut rester notre petit secret
+  - debout (façade contre le plateau d'impression), vous allez consomer le double de filament pour les supports, si votre imprimante commence à gigoter en hauteur, la piéces risque de sortir pas utilisable. A vous de voir
+  - sur le coté vous risquez d'avoir un mélange des 2 défauts.
 
