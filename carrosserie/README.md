@@ -178,6 +178,8 @@ Une fois que vous avez nettoyer les pièces, il va vous falloir:
       (si tu fais pas ça dans l’ordre, viens pas pleurer)
     - Puis serrez les 2 vis centrales
   - Sinon, 4 vis M3 x 10mm direct.
+
+
 ![façade](./images/mount_body_frame.png)
 ![angel eye](./images/mount_body_frame_2.png)
 ---
