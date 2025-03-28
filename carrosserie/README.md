@@ -181,6 +181,7 @@ Une fois que vous avez nettoyer les pièces, il va vous falloir:
 
 
 ![façade](./images/mount_body_frame.png)
+![angel eye](./images/angel_mousse.png)
 ![angel eye](./images/mount_body_frame_2.png)
 ---
 
@@ -188,6 +189,10 @@ Une fois que vous avez nettoyer les pièces, il va vous falloir:
   - Utilisez les 2 vis M3 x 12 mm
   - Ajoutez une micro goutte de frein filet (Pas un bain. Une goutte. Sérieux.)
   - Serrez, puis desserrez d’un tour Vous ne le faites pas ? Vous allez la voir passer, la douille.
+
+![glue](./images/glue.png)
+![open](./images/open.png)
+![closed](./images/closed.png)
 
 - Pose du capot :
   - Allez-y, mais ne serrez pas tout de suite.
