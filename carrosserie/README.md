@@ -155,7 +155,7 @@ capot
 
 ---
 Bon la ça va commencer à donner le sourrire.
-Une fois que vous avez nettoyer les pièces, il va bous falloir:
+Une fois que vous avez nettoyer les pièces, il va vous falloir:
 - 8 insert (ça commence à faire mais vous avez 10 doigts, vous vous en sortirer)
 - 4 ou 2 vis M3 x 10mm pour fixer la façade (je ne vous ai pas dit de la monter bordel.) Si vous ne montez pas l'option Angel eye c'est 4, sinon remplacer les 2 vis du centre par des M3x20mm.
 - 4 vis M3 x 15mm + rondelle pour fixer le capot (range cette putain de visseuse, je ne le dirai pas 2 fois)
@@ -167,13 +167,20 @@ Une fois que vous avez nettoyer les pièces, il va bous falloir:
   - 1 sur chaque coin du support
   >4 + 4 = 8, on valide.
 
+![support](./images/hood_mount_frame_2.png)
+
+---
+
 - Fixation de la façade :
   - Si vous utilisez les Angel Eyes :
     - Vissez les 2 vis externes
     - Glissez le support LED avec les deux LEDs déjà montées par le haut
       (si tu fais pas ça dans l’ordre, viens pas pleurer)
     - Puis serrez les 2 vis centrales
-  - Sinon, 4 vis M3 x 10 direct.
+  - Sinon, 4 vis M3 x 10mm direct.
+![façade](./images/mount_body_frame.png)
+![angel eye](./images/mount_body_frame_2.png)
+---
 
 - Fixation du support capot sur la charnière :
   - Utilisez les 2 vis M3 x 12 mm
