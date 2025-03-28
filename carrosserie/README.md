@@ -119,17 +119,17 @@ Et voici un dicton d’un grand sage – gravé par la douleure. À mémoriser a
 [📦 STL du support capot](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/hood_mount_frame_v3/hood_mount_frame_v3.stl)
 [📦 STL de face avant](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/body_front_face_v2/body_front_face_v2.stl)
 [📦 STL du capot](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/hood/hood.stl)
-[📦 STL support des angels eyes](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/body_front_face_v2/body_front_face_v2.stl)
+[📦 STL support des angels eyes](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/angel/angel_v1.stl)
 
 ---
-support de coffre
+support de capot
 
 ![support](./images/hood_mount_frame_v3.png)
 - 0.8mm pour la buse
 - Sens d'impression selon votre choix de défaut.
-  - dans le sens de l'image, la pièce va wrapper, mais comme elle est pas visible, ça peut rester notre petit secret
-  - debout (façade contre le plateau d'impression), vous allez consomer le double de filament pour les supports, si votre imprimante commence à gigoter en hauteur, la piéces risque de sortir pas utilisable. A vous de voir
-  - sur le coté vous risquez d'avoir un mélange des 2 défauts.
+  - Comme sur l’image : ça va wrapper, mais comme c’est caché, ça restera notre petit secret.
+  - Debout (façade contre plateau) : vous allez cramer du filament pour des supports, et si votre machine a la tremblote à en sucrer les fraises, c’est foutu.
+  - Sur le côté : mélange des deux emmerdes. À vous de voir.
 
 ---
 façade avant
@@ -152,3 +152,36 @@ capot
 - 0.8mm pour la buse
 - À imprimer comme sur l’image pour éviter que les couches se voit trop
 - imprimante au ralentie, ça limitera les dégats de colision.
+
+---
+Bon la ça va commencer à donner le sourrire.
+Une fois que vous avez nettoyer les pièces, il va bous falloir:
+- 8 insert (ça commence à faire mais vous avez 10 doigts, vous vous en sortirer)
+- 4 ou 2 vis M3 x 10mm pour fixer la façade (je ne vous ai pas dit de la monter bordel.) Si vous ne montez pas l'option Angel eye c'est 4, sinon remplacer les 2 vis du centre par des M3x20mm.
+- 4 vis M3 x 15mm + rondelle pour fixer le capot (range cette putain de visseuse, je ne le dirai pas 2 fois)
+- 2 vis M3 x 12mm + si vous avez une lichette de frein filet léger
+
+🛠️ Étapes de montage
+- Pose des 8 inserts sur le support capot :
+  - 4 sur la façade
+  - 1 sur chaque coin du support
+  >4 + 4 = 8, on valide.
+
+- Fixation de la façade :
+  - Si vous utilisez les Angel Eyes :
+    - Vissez les 2 vis externes
+    - Glissez le support LED avec les deux LEDs déjà montées par le haut
+      (si tu fais pas ça dans l’ordre, viens pas pleurer)
+    - Puis serrez les 2 vis centrales
+  - Sinon, 4 vis M3 x 10 direct.
+
+- Fixation du support capot sur la charnière :
+  - Utilisez les 2 vis M3 x 12 mm
+  - Ajoutez une micro goutte de frein filet (Pas un bain. Une goutte. Sérieux.)
+  - Serrez, puis desserrez d’un tour Vous ne le faites pas ? Vous allez la voir passer, la douille.
+
+- Pose du capot :
+  - Allez-y, mais ne serrez pas tout de suite.
+Des ajustements vont suivre, et c’est pas le moment de jouer au bourrin.
+
+
