@@ -51,9 +51,7 @@ Si tu bloques déjà ici... comment dire... Ça promet pour la suite. Vraiment.
 Pas de quartier :
 
 - Supports de carrosserie
-
 - Supports de pare-choc
-
 - Marchepieds
 
 Tout ça, dehors. On vire tout ce qui dépasse. Ce qui reste doit être prêt à accueillir du neuf, du solide, du printé maison.
@@ -84,7 +82,7 @@ Et pendant qu’on y est : un petit nettoyage, ça mange pas de pain. C’est qu
 - 0.8mm pour la buse
 - À imprimer comme sur l’image.
 Pourquoi ? Pour éviter que la pièce se fasse cisailler au premier face-à-face non consenti avec un obstacle. Ça semble con, mais tu seras content que ça tienne.
-- - Support : **non**
+- Support : **non**
 
 ---
 
@@ -133,7 +131,7 @@ support de capot
   - Comme sur l’image : ça va wrapper, mais comme c’est caché, ça restera notre petit secret.
   - Debout (façade contre plateau) : vous allez cramer du filament pour des supports, et si votre machine a la tremblote à en sucrer les fraises, c’est foutu.
   - Sur le côté : mélange des deux emmerdes. À vous de voir.
-  - - Support : **non**
+  - Support : **non**
 
 ---
 façade avant
@@ -141,7 +139,7 @@ façade avant
 ![support](./images/body_front_face_v2.png)
 - 0.8mm pour la buse
 - À imprimer comme sur l’image, si vous n'avez pas de soucis d'adhérence au plateau.
-- - Support : **oui**
+- Support : **oui**
 
 ---
 angel eyes (optionnel)
@@ -149,7 +147,7 @@ angel eyes (optionnel)
 ![support](./images/angel_v1.png)
 - 0.8mm pour la buse
 - À imprimer comme sur l’image.
-- - Support : **non**
+- Support : **non**
 
 ---
 capot
@@ -159,7 +157,7 @@ capot
 - À imprimer comme sur l’image pour éviter que les couches se voit trop
 - imprimante au ralentie, ça limitera les dégats de collision.
 - Adhérence : jupe obligatoire, radeau conseillé pour les machines un peu plus capricieuse
-- - Support : **oui**
+- Support : **oui**
 
 ---
 Bon la ça va commencer à donner le sourrire.
@@ -254,6 +252,16 @@ Si t’en rates un, tu vas t’en souvenir au moment de l’assemblage. Et ce se
 - Supports conseillé
 
 Les supports sont des pièces relativement massive qui vont supporter la carroserie et encaisser une partie des chocs
-Pour chaque support il va falloir 3 insert.
-La pose des inserts utilise une approche différente car dedans nous laisseront des vis permanentes.
-La pose des insertss se fait par le dessous. et une fois posés, il faudra mettre des vis M3 x 15mm aussi par le dessous.
+Pour chaque support il va falloir 3 ou 5 inserts (5 si vous pensez accrochez quelque chose au rigidifieur comme un atttelage, oups j'ai en trop dit sur une prochaine idée).
+La pose des insert utilise une approche différente car dedans nous laisseront des vis permanantes.
+La pose des inserts se fait par le dessous. et une fois poser, il faudra mettre des vis M3 x 18mm avec des rondelles aussi par le dessous.
+![support arrière](./images/rear.png)
+![support arrière](./images/rear2.png)
+![support arrière](./images/rear3.png)
+![support arrière](./images/rear4.png)
+![support arrière](./images/rear5.png)
+![support arrière](./images/rear6.png)
+
+La fixation/laison entre le rigidifieur et les supports se fait grace à des vis M3 x 12mm avec aussi des rondelles.
+
+A force de parler de rondelle, j'en envie de saucisson, allez apéro
