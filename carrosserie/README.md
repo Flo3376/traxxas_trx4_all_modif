@@ -202,6 +202,7 @@ Une fois que vous avez nettoyer les pièces, il va vous falloir:
     > Vous ne le faites pas ? Vous allez la voir passer, la douille, surtout avec le frein filet.
 
 ![glue](./images/glue.png)
+
 ![open](./images/open.png)
 ![closed](./images/closed.png)
 
@@ -228,7 +229,7 @@ Vous l’avez mérité.
 - À imprimer comme sur l’image, aucun piéges.
 
 🧱 Le rigidifieur (aka la traverse qui tient la baraque)
-Avant tout, faut préparer le rigidifieur, cette pièce qu’on vient caler entre les deux longerons du châssis.
+Avant tout, faut préparer le rigidifieur, cette pièce qu’on vient se caler entre les deux longerons du châssis.
 
 
 Il faut y poser 7 inserts. Pas 6. Pas 8. Sept.
@@ -249,5 +250,10 @@ Si t’en rates un, tu vas t’en souvenir au moment de l’assemblage. Et ce se
 
 ![support arrière](./images/rear_mount_right_v2.png)
 - 0.8mm pour la buse
-- À debout et penser à dupliquer la piéces avec un symétrie en X.
+- À debout et pensez à dupliquer la piéces avec un symétrie en X.
+- Supports conseillé
 
+Les supports sont des pièces relativement massive qui vont supporter la carroserie et encaisser une partie des chocs
+Pour chaque support il va falloir 3 insert.
+La pose des insert utilise une approche différente car dedans nous laisseront des vis permanante.
+La pose des inserts se fait par le dessous. et une fois poser, il faudra mettre des vis M3 x 15mm aussi par le dessous.
