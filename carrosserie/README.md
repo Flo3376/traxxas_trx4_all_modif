@@ -33,6 +33,8 @@ Et quand tu peindras ta caisse... libre à toi d’y mettre la couleur que tu ve
 On va commencer par imprimer les chandelles:
 - 0.8mm pour la buse
 - Orientation : socle vers le bas, évidemment. Pas la peine de faire les malins avec des supports tordus dès le départ. Ça dérapera bien assez tout seul plus tard.
+- Adhérence par jupe conseillée
+- support oui
 
 ![Chandelles](./images/jacks2.png)
 
@@ -82,6 +84,7 @@ Et pendant qu’on y est : un petit nettoyage, ça mange pas de pain. C’est qu
 - 0.8mm pour la buse
 - À imprimer comme sur l’image.
 Pourquoi ? Pour éviter que la pièce se fasse cisailler au premier face-à-face non consenti avec un obstacle. Ça semble con, mais tu seras content que ça tienne.
+- support non
 
 ---
 
@@ -130,6 +133,7 @@ support de capot
   - Comme sur l’image : ça va wrapper, mais comme c’est caché, ça restera notre petit secret.
   - Debout (façade contre plateau) : vous allez cramer du filament pour des supports, et si votre machine a la tremblote à en sucrer les fraises, c’est foutu.
   - Sur le côté : mélange des deux emmerdes. À vous de voir.
+  - support non
 
 ---
 façade avant
@@ -137,6 +141,7 @@ façade avant
 ![support](./images/body_front_face_v2.png)
 - 0.8mm pour la buse
 - À imprimer comme sur l’image, si vous n'avez pas de soucis d'adhérence au plateau.
+- support oui
 
 ---
 angel eyes (optionnel)
@@ -144,6 +149,7 @@ angel eyes (optionnel)
 ![support](./images/angel_v1.png)
 - 0.8mm pour la buse
 - À imprimer comme sur l’image.
+- support non
 
 ---
 capot
@@ -152,13 +158,15 @@ capot
 - 0.8mm pour la buse
 - À imprimer comme sur l’image pour éviter que les couches se voit trop
 - imprimante au ralentie, ça limitera les dégats de colision.
+- Adhérence par jupe obligatoire / radeau conseillé pour les machines un peu plus capricieuse
+- support oui
 
 ---
 Bon la ça va commencer à donner le sourrire.
 Une fois que vous avez nettoyer les pièces, il va vous falloir:
 - 8 insert (ça commence à faire mais vous avez 10 doigts, vous vous en sortirer)
 - 4 ou 2 vis M3 x 10mm pour fixer la façade (je ne vous ai pas dit de la monter bordel.) Si vous ne montez pas l'option Angel eye c'est 4, sinon remplacer les 2 vis du centre par des M3x20mm.
-- 4 vis M3 x 15mm + rondelle pour fixer le capot (range cette putain de visseuse, je ne le dirai pas 2 fois)
+- 2 vis M3 x 15mm  et 2 M3 x 18mm+ rondelle pour fixer le capot (range cette putain de visseuse, je ne le dirai pas 2 fois)
 - 2 vis M3 x 12mm + si vous avez une lichette de frein filet léger
 
 🛠️ Étapes de montage
@@ -179,23 +187,33 @@ Une fois que vous avez nettoyer les pièces, il va vous falloir:
     - Puis serrez les 2 vis centrales
   - Sinon, 4 vis M3 x 10mm direct.
 
-
-![façade](./images/mount_body_frame.png)
 ![angel eye](./images/angel_mousse.png)
+![façade](./images/mount_body_frame.png)
 ![angel eye](./images/mount_body_frame_2.png)
 ---
 
 - Fixation du support capot sur la charnière :
   - Utilisez les 2 vis M3 x 12 mm
-  - Ajoutez une micro goutte de frein filet (Pas un bain. Une goutte. Sérieux.)
-  - Serrez, puis desserrez d’un tour Vous ne le faites pas ? Vous allez la voir passer, la douille.
+  - Pour le premier montage ne mettez de frein filet
+    > vous devrez certaine le déposer pour faciliter la suite du montage) ,
+  - Pour le montage définitif, mettez une micro goutte de frein filet (Pas un bain. Une goutte. Sérieux.)
+  - Serrez, puis desserrez d’un tour Vous ne le faites pas ? Vous allez la voir passer, la douille, surtout avec le frein filet.
 
 ![glue](./images/glue.png)
 ![open](./images/open.png)
 ![closed](./images/closed.png)
 
-- Pose du capot :
-  - Allez-y, mais ne serrez pas tout de suite.
-Des ajustements vont suivre, et c’est pas le moment de jouer au bourrin.
+---
 
+- Pose du capot :
+  - Allez-y, posez le capot, mais ne serrez rien pour l’instant.
+  - Mettez les 2 vis de 18 mm sur les zones les plus épaisses, les 2 plus courtes (15 mm) à l’avant, côté museau.
+  - Il y aura des ajustements, donc on garde de la marge.
+  - Astuce : ne pas serrer tout de suite facilite l’engagement dans les inserts sans les ruiner. Et ça évite de tout recommencer.
+
+![hood_complete](./images/hood_complete.png)
+
+Et voilà. On marque une pause, on recule de deux pas, et on admire.
+Prenez 5 minutes pour souffler... et pour siroter un café.
+Vous l’avez mérité.
 
