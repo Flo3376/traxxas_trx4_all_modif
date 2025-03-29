@@ -34,11 +34,11 @@ On va commencer par imprimer les chandelles:
 - 0.8mm pour la buse
 - Orientation : socle vers le bas, évidemment. Pas la peine de faire les malins avec des supports tordus dès le départ. Ça dérapera bien assez tout seul plus tard.
 - Adhérence par jupe conseillée
-- support oui
+- - Support : **oui**
 
 ![Chandelles](./images/jacks2.png)
 
-La chandelle avec le rond dans le socle c'est pour le train avain, celle avec le trou carré, tu devines pour quoi c’est....
+La chandelle avec le rond dans le socle c'est pour le train avant, celle avec le trou carré, tu devines pour quoi c’est....
 Si tu bloques déjà ici... comment dire... Ça promet pour la suite. Vraiment.
 
 ## Étape 2 – Dépose des éléments en trop
@@ -84,12 +84,12 @@ Et pendant qu’on y est : un petit nettoyage, ça mange pas de pain. C’est qu
 - 0.8mm pour la buse
 - À imprimer comme sur l’image.
 Pourquoi ? Pour éviter que la pièce se fasse cisailler au premier face-à-face non consenti avec un obstacle. Ça semble con, mais tu seras content que ça tienne.
-- support non
+- - Support : **non**
 
 ---
 
 ⚙️ Première pièce à installer.
-Il vous fraudra :
+Il vous faudra :
 - 6 inserts
 - 4 vis en M3x10mm
 
@@ -133,7 +133,7 @@ support de capot
   - Comme sur l’image : ça va wrapper, mais comme c’est caché, ça restera notre petit secret.
   - Debout (façade contre plateau) : vous allez cramer du filament pour des supports, et si votre machine a la tremblote à en sucrer les fraises, c’est foutu.
   - Sur le côté : mélange des deux emmerdes. À vous de voir.
-  - support non
+  - - Support : **non**
 
 ---
 façade avant
@@ -141,7 +141,7 @@ façade avant
 ![support](./images/body_front_face_v2.png)
 - 0.8mm pour la buse
 - À imprimer comme sur l’image, si vous n'avez pas de soucis d'adhérence au plateau.
-- support oui
+- - Support : **oui**
 
 ---
 angel eyes (optionnel)
@@ -149,7 +149,7 @@ angel eyes (optionnel)
 ![support](./images/angel_v1.png)
 - 0.8mm pour la buse
 - À imprimer comme sur l’image.
-- support non
+- - Support : **non**
 
 ---
 capot
@@ -157,17 +157,17 @@ capot
 ![support](./images/hood_v2.png)
 - 0.8mm pour la buse
 - À imprimer comme sur l’image pour éviter que les couches se voit trop
-- imprimante au ralentie, ça limitera les dégats de colision.
-- Adhérence par jupe obligatoire / radeau conseillé pour les machines un peu plus capricieuse
-- support oui
+- imprimante au ralentie, ça limitera les dégats de collision.
+- Adhérence : jupe obligatoire, radeau conseillé pour les machines un peu plus capricieuse
+- - Support : **oui**
 
 ---
 Bon la ça va commencer à donner le sourrire.
 Une fois que vous avez nettoyer les pièces, il va vous falloir:
-- 8 insert (ça commence à faire mais vous avez 10 doigts, vous vous en sortirer)
-- 4 ou 2 vis M3 x 10mm pour fixer la façade (je ne vous ai pas dit de la monter bordel.) Si vous ne montez pas l'option Angel eye c'est 4, sinon remplacer les 2 vis du centre par des M3x20mm.
+- 8 insert (ça commence à faire mais vous avez 10 doigts, vous vous en sortirez)
+- 4 ou 2 vis M3 x 10mm pour fixer la façade (je ne vous ai pas dit de la monter bordel.) Si vous ne montez pas l'option Angel eye c'est 4, sinon remplacez les 2 vis du centre par des M3x20mm.
 - 2 vis M3 x 15mm  et 2 M3 x 18mm+ rondelle pour fixer le capot (range cette putain de visseuse, je ne le dirai pas 2 fois)
-- 2 vis M3 x 12mm + si vous avez une lichette de frein filet léger
+- 2 vis M3 x 12mm + si vous avez une micro-goutte de frein filet léger
 
 🛠️ Étapes de montage
 - Pose des 8 inserts sur le support capot :
@@ -222,11 +222,11 @@ Vous l’avez mérité.
 
 ## Étape 7 (enfin je crois), Préparation du rigidifieur arrière et des supports:
 
-[📦 STL du rigidifieurt](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_chassis_brace/rear_chassis_brace.stl)
+[📦 STL du rigidifieur](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_chassis_brace/rear_chassis_brace.stl)
 
 ![rigidifieur arrière](./images/rear_chassis_brace.png)
 - 0.8mm pour la buse
-- À imprimer comme sur l’image, aucun piéges.
+- À imprimer comme sur l’image, aucun pièges.
 
 🧱 Le rigidifieur (aka la traverse qui tient la baraque)
 Avant tout, faut préparer le rigidifieur, cette pièce qu’on vient se caler entre les deux longerons du châssis.
@@ -242,7 +242,7 @@ Si t’en rates un, tu vas t’en souvenir au moment de l’assemblage. Et ce se
 
 ---
 🔧 Le support droit/gauche (arrière)
-[📦 STL du support droit et gauche](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_mount_v2/rear_mount_right_v2.stl)
+[📦 STL du support droit (et gauche par symétrie)](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_mount_v2/rear_mount_right_v2.stl)
 
 >Le support gauche → n’existe pas en STL, parce qu’on n’est pas là pour faire du copier-coller à la main.
 >Il suffit de dupliquer le support droit dans Cura et d’activer la symétrie miroir sur l’axe X.
@@ -250,10 +250,10 @@ Si t’en rates un, tu vas t’en souvenir au moment de l’assemblage. Et ce se
 
 ![support arrière](./images/rear_mount_right_v2.png)
 - 0.8mm pour la buse
-- À debout et pensez à dupliquer la piéces avec un symétrie en X.
+- À debout et pensez à dupliquer la pièces avec un symétrie en X.
 - Supports conseillé
 
 Les supports sont des pièces relativement massive qui vont supporter la carroserie et encaisser une partie des chocs
 Pour chaque support il va falloir 3 insert.
-La pose des insert utilise une approche différente car dedans nous laisseront des vis permanantes.
-La pose des inserts se fait par le dessous. et une fois poser, il faudra mettre des vis M3 x 15mm aussi par le dessous.
+La pose des inserts utilise une approche différente car dedans nous laisseront des vis permanentes.
+La pose des insertss se fait par le dessous. et une fois posés, il faudra mettre des vis M3 x 15mm aussi par le dessous.
