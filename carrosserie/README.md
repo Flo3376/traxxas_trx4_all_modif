@@ -196,8 +196,10 @@ Une fois que vous avez nettoyer les pièces, il va vous falloir:
   - Utilisez les 2 vis M3 x 12 mm
   - Pour le premier montage ne mettez de frein filet
     > vous devrez certaine le déposer pour faciliter la suite du montage) ,
-  - Pour le montage définitif, mettez une micro goutte de frein filet (Pas un bain. Une goutte. Sérieux.)
-  - Serrez, puis desserrez d’un tour Vous ne le faites pas ? Vous allez la voir passer, la douille, surtout avec le frein filet.
+  - Pour le montage définitif, mettez une micro goutte de frein filet 
+    > (Pas un bain. Une goutte. Sérieux.)
+  - Serrez, puis desserrez d’un tour.
+    > Vous ne le faites pas ? Vous allez la voir passer, la douille, surtout avec le frein filet.
 
 ![glue](./images/glue.png)
 ![open](./images/open.png)
@@ -217,3 +219,31 @@ Et voilà. On marque une pause, on recule de deux pas, et on admire.
 Prenez 5 minutes pour souffler... et pour siroter un café.
 Vous l’avez mérité.
 
+## Étape 7 (enfin je crois), Préparation du rigidifieur arrière et des supports:
+[📦 STL du rigidifieurt](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_chassis_brace/rear_chassis_brace.stl)
+[📦 STL du support droit et gauche](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_mount_v2/rear_mount_right_v2.stl)
+
+Le support gauche → n’existe pas en STL, parce qu’on n’est pas là pour faire du copier-coller à la main.
+Il suffit de dupliquer le support droit dans Cura et d’activer la symétrie miroir sur l’axe X.
+
+![rigidifieur arrière](./images/rear_chassis_brace.png)
+- 0.8mm pour la buse
+- À imprimer comme sur l’image, aucun piéges.
+
+![support arrière](./images/rear_mount_v2.png)
+- 0.8mm pour la buse
+- À debout et penser à dupliquer la piéces avec un symétrie en X.
+
+---
+
+🧱 Le rigidifieur (aka la traverse qui tient la baraque)
+Avant tout, faut préparer le rigidifieur, cette pièce qu’on vient caler entre les deux longerons du châssis.
+
+
+Il faut y poser 7 inserts. Pas 6. Pas 8. Sept.
+
+Et prévoir 6 vis M3 x 10 mm avec rondelles pour la suite.
+
+Si t’en rates un, tu vas t’en souvenir au moment de l’assemblage. Et ce sera trop tard. Donc on le fait bien maintenant, pendant que t’as encore les doigts intacts.
+
+![rigidifieur arrière](./images/rear_chassis_brace2.png)
