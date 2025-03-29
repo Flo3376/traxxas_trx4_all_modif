@@ -223,14 +223,14 @@ Vous l’avez mérité.
 [📦 STL du rigidifieurt](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_chassis_brace/rear_chassis_brace.stl)
 [📦 STL du support droit et gauche](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_mount_v2/rear_mount_right_v2.stl)
 
-Le support gauche → n’existe pas en STL, parce qu’on n’est pas là pour faire du copier-coller à la main.
-Il suffit de dupliquer le support droit dans Cura et d’activer la symétrie miroir sur l’axe X.
+>Le support gauche → n’existe pas en STL, parce qu’on n’est pas là pour faire du copier-coller à la main.
+>Il suffit de dupliquer le support droit dans Cura et d’activer la symétrie miroir sur l’axe X.
 
 ![rigidifieur arrière](./images/rear_chassis_brace.png)
 - 0.8mm pour la buse
 - À imprimer comme sur l’image, aucun piéges.
 
-![support arrière](./images/rear_mount_v2.png)
+![support arrière](./images/rear_mount_right_v2.png)
 - 0.8mm pour la buse
 - À debout et penser à dupliquer la piéces avec un symétrie en X.
 
