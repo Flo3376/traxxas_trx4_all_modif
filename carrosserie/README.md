@@ -254,6 +254,8 @@ Si t’en rates un, tu vas t’en souvenir au moment de l’assemblage. Et ce se
 - Supports conseillé
 
 Les supports sont des pièces relativement massive qui vont supporter la carroserie et encaisser une partie des chocs
-Pour chaque support il va falloir 3 insert.
+Pour chaque support il va falloir 3 ou 5 inserts (5 si vous pensez accrochez quelque chose au rigidifieur comme un atttelage, oups j'ai en trop dit sur une prochaine idée).
 La pose des insert utilise une approche différente car dedans nous laisseront des vis permanantes.
-La pose des inserts se fait par le dessous. et une fois poser, il faudra mettre des vis M3 x 15mm aussi par le dessous.
+La pose des inserts se fait par le dessous. et une fois poser, il faudra mettre des vis M3 x 18mm avec des rondelles aussi par le dessous.
+
+La fixation/laison entre le rigidifieur et les supports se fait grace à des vis M3 x 12mm avec aussi des rondelles.

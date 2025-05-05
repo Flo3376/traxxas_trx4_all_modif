@@ -218,7 +218,7 @@ Et voilà. On marque une pause, on recule de deux pas, et on admire.
 Prenez 5 minutes pour souffler... et pour siroter un café.
 Vous l’avez mérité.
 
-## Étape 7 (enfin je crois), Préparation du rigidifieur arrière et des supports:
+## Étapes 7, 8 et 9 (enfin je crois), Préparation du rigidifieur arrière et des supports:
 
 [📦 STL du rigidifieur](https://github.com/Flo3376/traxxas_trx4_all_modif/raw/main/carrosserie/parts/rear_chassis_brace/rear_chassis_brace.stl)
 
@@ -249,19 +249,30 @@ Si t’en rates un, tu vas t’en souvenir au moment de l’assemblage. Et ce se
 ![support arrière](./images/rear_mount_right_v2.png)
 - 0.8mm pour la buse
 - À debout et pensez à dupliquer la pièces avec un symétrie en X.
-- Supports conseillé
+- Supports conseillés
 
-Les supports sont des pièces relativement massive qui vont supporter la carroserie et encaisser une partie des chocs
-Pour chaque support il va falloir 3 ou 5 inserts (5 si vous pensez accrochez quelque chose au rigidifieur comme un atttelage, oups j'ai en trop dit sur une prochaine idée).
-La pose des insert utilise une approche différente car dedans nous laisseront des vis permanantes.
-La pose des inserts se fait par le dessous. et une fois poser, il faudra mettre des vis M3 x 18mm avec des rondelles aussi par le dessous.
+Les supports sont des pièces relativement massives, qui vont supporter la carrosserie et encaisser une partie des chocs.
+
+Pour chaque support, il va falloir :
+- 3 inserts en usage classique
+- 5 inserts si vous comptez fixer quelque chose au rigidifieur (genre un attelage, oups... j’en ai trop dit sur une idée future)
+
+La pose des inserts ici est un peu différente : on laisse les vis dedans, volontairement.
+Les inserts se posent par le dessous, et une fois en place, on met des vis M3 x 18 mm avec rondelles, également par dessous.
+
 ![support arrière](./images/rear.png)
-![support arrière](./images/rear2.png)
-![support arrière](./images/rear3.png)
-![support arrière](./images/rear4.png)
-![support arrière](./images/rear5.png)
-![support arrière](./images/rear6.png)
+![support arrière2](./images/rear2.png)
+![support arrière3](./images/rear3.png)
+![support arrière4](./images/rear4.png)
 
 La fixation/laison entre le rigidifieur et les supports se fait grace à des vis M3 x 12mm avec aussi des rondelles.
 
-A force de parler de rondelle, j'en envie de saucisson, allez apéro
+
+![support arrière5](./images/rear5.png)
+![support arrière6](./images/rear6.png)
+
+
+Et voilà.
+À force de parler de rondelles, j’ai envie de saucisson.
+
+Allez, apéro. 🍷🧀
